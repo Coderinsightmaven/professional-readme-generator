@@ -29,7 +29,7 @@ In order to start the program after following the installation steps above do `n
 
 ## Tutorial
 
-If you still have questions after reading above watch this [video](https://drive.google.com/file/d/1mpgxdBlZ4VpId0cymH4E4zsFFg_OxKD9/view?usp=sharing)
+If you still have questions after reading the above watch this [video](https://drive.google.com/file/d/1mpgxdBlZ4VpId0cymH4E4zsFFg_OxKD9/view?usp=sharing)
 
 ## License
 
