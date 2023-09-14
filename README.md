@@ -12,7 +12,7 @@
 
 ## Description
 
-This project makes it so that when you enter an input it formats and put the data in the correct spot for a clean and organized readme file.
+This project makes it so that when you answer a question it will put it in the proper place. It also formats everything for a clean and organized readme file.
 
 ## Installation
 
@@ -30,11 +30,7 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-
-
 ## Tests
-
-
 
 ## Questions
 
