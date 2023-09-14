@@ -27,7 +27,7 @@ In order to start the program after following the installation steps above do `n
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## Video Tutorial
+## Video
 
 If you still have questions after reading above watch this [video](https://drive.google.com/file/d/1mpgxdBlZ4VpId0cymH4E4zsFFg_OxKD9/view?usp=sharing)
 
