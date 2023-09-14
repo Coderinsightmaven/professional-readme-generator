@@ -22,7 +22,7 @@ In order to install this program you need to clone the program from github. Then
 
 The usage of this project is to be able to easily create a readme for future and past projects
 
-In order to start the program after doing the installation steps above run `npm start`
+In order to start the program after following the installation steps above do `npm start`
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
