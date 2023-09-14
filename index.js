@@ -55,14 +55,10 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-  fs.writeFile(
-    `./generated_readme/${fileName}`,
-    generateMarkdown(data),
-    (err) => {
-      if (err) throw err;
-      console.log("README generated successfully.");
-    }
-  );
+  fs.writeFile(`./output/${fileName}`, generateMarkdown(data), (err) => {
+    if (err) throw err;
+    console.log("README generated successfully.");
+  });
 }
 
 // TODO: Create a function to initialize app
