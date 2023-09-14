@@ -41,3 +41,8 @@ There is no automated tests for this program.
 ## Questions
 
 If you have any questions about this project, please find me on [GitHub](https://github.com/CoderInsightMaven) or contact me at lmarincik@proton.me.
+
+## Video Tutorial
+
+If you still have questions after reading above watch this [video](https://drive.google.com/file/d/1mpgxdBlZ4VpId0cymH4E4zsFFg_OxKD9/view?usp=sharing)
+
