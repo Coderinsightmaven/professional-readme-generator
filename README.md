@@ -1,4 +1,4 @@
-# professional-readme-generator
+# Professional-Readme-Generator
 
 ## Table of Contents
 
@@ -12,15 +12,15 @@
 
 ## Description
 
-This project makes it so that when you answer a question it will put it in the proper place. It also formats everything for a clean and organized readme file.
+This project makes it easy and fast to create a professional looking readme that has a table of contents and sections for all the questions a user may have.
 
 ## Installation
 
-In order to install this program you need to download the program and have NodeJS version 18.17.1+ installed.
+In order to install this program you need to clone the program from github. Then you need to cd into the working directory of the project. Then you need to have NodeJS version 18.17.1+ omsta;;ed. After that then you need to run "npm i" to install the required dependencies for the program.
 
 ## Usage
 
-The usage of this project is to be able to create readme's for my current and future projects.
+The usage of this project is to be able to easily create a readme for future and past projects
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -30,8 +30,12 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
+None
+
 ## Tests
+
+There is no automated tests for this program.
 
 ## Questions
 
-If you have any questions about this project, please find me on [GitHub](https://github.com/Coderinsightmaven) or contact me at lmarincik@proton.me.
+If you have any questions about this project, please find me on [GitHub](https://github.com/CoderInsightMaven) or contact me at lmarincik@proton.me.
